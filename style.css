@@ -1,0 +1,15 @@
+body{
+
+    background-color: papayawhip;
+    text-align: center;
+}
+
+.container{
+
+background-color: cornflowerblue;
+padding: 2rem 1rem;
+border-radius: 50%;
+width: 50%;
+margin:auto;
+
+}
